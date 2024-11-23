@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "ContractGPT",
   description: "AI-powered contract generation and management",
 };
-
+ 
 export default function RootLayout({
   children,
 }: Readonly<{
